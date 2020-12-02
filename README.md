@@ -25,6 +25,8 @@ Click on the picture if you cannot see the code well.
 
 Wiring
 
+<img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
+
 # Finite LED Blinker
 
 # Description 
@@ -40,7 +42,9 @@ So I did this once, with the help of Mr. Dierolf, and the code worked, but I did
 # Image
 
 Click on the picture if you cannot see the code well.
+
 <img src=images/FiniteLEDBlinker.png alt=FiniteLEDBlinkerCode height=200 width=500>
 
 Wiring
+
 <img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
