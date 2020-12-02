@@ -36,3 +36,4 @@ So I did this once, with the help of Mr. Dierolf, and the code worked, but I did
 
 # Image
 
+<img src=images/FiniteLEDBlinker.png alt=FiniteLEDBlinkerCode height=200 width=500>
