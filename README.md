@@ -19,8 +19,11 @@ This one took me a while but with the help of Mr. Dierolf I got it. I was having
 
 # Image
 
+Code
+Click on the picture if you cannot see the code well.
 <img src=images/HelloArduino.png alt=HelloArduinoCode height=200 width=500>
 
+Wiring
 
 # Finite LED Blinker
 
@@ -36,4 +39,8 @@ So I did this once, with the help of Mr. Dierolf, and the code worked, but I did
 
 # Image
 
+Click on the picture if you cannot see the code well.
 <img src=images/FiniteLEDBlinker.png alt=FiniteLEDBlinkerCode height=200 width=500>
+
+Wiring
+<img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
