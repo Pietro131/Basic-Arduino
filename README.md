@@ -32,6 +32,8 @@ Wiring
 
 # Description 
 
+The point of this assignment was to make an LED blink a certain amount of times, and then stop blinking. So, I made it blink 5 times, and then stop blinking.
+
 # Evidence
 
 https://create.arduino.cc/editor/Pcilibe06/ebeb9910-46f6-4396-8a64-5587037529cf/preview\
