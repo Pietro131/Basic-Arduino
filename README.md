@@ -52,3 +52,22 @@ Click on the picture if you cannot see the code well.
 Wiring
 
 <img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
+
+
+# Variable LED Blinker
+
+# Description
+
+The point of this assignment was to learn how to use the "delayVar"
+What we had to do is make it so that the Arduino would blink on for 2 seconds then off for 2 seconds, then it would blink on for 1.8 seconds and off for 1.8 seconds, then on for 1.6 seconds and off for 1.6 seconds, and so on. Eventually the blinker would get to on for .2 seconds and off for .2 seconds, once it got there the blinker was supposed to stop going down and just keep blinking on and off at .2 seconds.
+
+# Evidence 
+
+https://create.arduino.cc/editor/Pcilibe06/6ab7c6bc-0361-4a11-8bae-02112af56f0d/preview
+
+# Reflection 
+
+This one was pretty hard, I'm not gonna lie, I'm not very good at Arduino. I needed help from Mr. Dierolf for this one as well, but unlike the other ones I had the rough idea down before I went to him, he helped me smooth it over and fix any mistakes I made here and there. I'm excited for the next one, and I think I'll be able to do it on my own!
+
+# Image
+
