@@ -75,3 +75,7 @@ Code
 Click on the picture if you cannot see the code well.
 
 <img src=images/VariableLEDBlinker.png alt=VariableLEDBlinker height=200 width=500>
+
+Wiring
+
+<img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
