@@ -72,6 +72,7 @@ This one was pretty hard, I'm not gonna lie, I'm not very good at Arduino. I nee
 # Image
 
 Code
+
 Click on the picture if you cannot see the code well.
 
 <img src=images/VariableLEDBlinker.png alt=VariableLEDBlinker height=200 width=500>
