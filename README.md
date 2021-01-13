@@ -99,4 +99,4 @@ This was not as hard as the other ones.
 
 # Image
 
-<img src=ButtonActivatedLED.png alt=Button Activated LED height=400 width=600>
+<img src=images/ButtonActivatedLED.png alt=Button Activated LED height=400 width=600>
