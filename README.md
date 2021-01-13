@@ -82,3 +82,19 @@ Click on the picture if you cannot see the code well.
 Wiring
 
 <img src=images/ArduinoCircuitBoardwiringFinite,intro.png alt=ArduinoCircuitBoard height=400 width=600>
+
+# Button Activated LED
+
+# Description
+
+For this project I had to wire the arduino and set the code so that when I pushed a button the light goes on and when I release it the light turns off.
+
+# Evidence 
+
+https://create.arduino.cc/editor/Pcilibe06/be68f8a3-6c7a-436b-a7c2-2f746b746227/preview
+
+# Reflection 
+
+This was not as hard as the other ones.
+
+# Image
