@@ -95,7 +95,7 @@ https://create.arduino.cc/editor/Pcilibe06/be68f8a3-6c7a-436b-a7c2-2f746b746227/
 
 # Reflection 
 
-This was not as hard as the other ones.
+This was not as hard as the other ones, the code was easier the wiring was more complicated.
 
 # Image
 
