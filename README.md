@@ -117,4 +117,4 @@ I haven't finished wiring the Arduino but I've done the code.
 
 # Image 
 
-<img src=images/TwoButtonsTwoLEDS.png alt=Two Buttons Two LEDs height=400 width=600
+<img src=images/TwoButtonsTwoLEDS.png alt=Two Buttons Two LEDs height=400 width=600>
