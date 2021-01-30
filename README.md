@@ -100,3 +100,21 @@ This was not as hard as the other ones, the code was easier the wiring was more 
 # Image
 
 <img src=images/ButtonActivatedLED.png alt=Button Activated LED height=400 width=600>
+
+# Two Buttons Two LEDs
+
+# Description
+
+This module was to wire the Arduino so that it had two buttons and two LEDs, one button for one LED.
+
+# Evidence
+
+https://create.arduino.cc/editor/Pcilibe06/5bc51fbe-5f46-48b0-9c68-3c8a467c900c/preview
+
+# Reflection
+
+I haven't finished wiring the Arduino but I've done the code.
+
+# Image 
+
+
