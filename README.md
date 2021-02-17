@@ -117,4 +117,4 @@ The code was not that hard to be honest, but the wiring took me a really long ti
 
 # Image 
 
-
+(img src=images/CORRECTTWOBUTTONS.png alt=Button Activated LED height=400 width=600>
