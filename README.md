@@ -105,7 +105,7 @@ This was not as hard as the other ones, the code was easier the wiring was more 
 
 # Description
 
-This module was to wire the Arduino so that it had two buttons and two LEDs, one button for one LED.
+This module was to wire the Arduino so that it had two buttons and two LEDs, one button for one LED. The wiring was to wire one two buttons and two LEDs, one button would control one LED and vice versa. To complete the assignment all you had to do was to pretty much duplicate the coding and wiring from "Button Activated LED."
 
 # Evidence
 
@@ -113,8 +113,8 @@ https://create.arduino.cc/editor/Pcilibe06/5bc51fbe-5f46-48b0-9c68-3c8a467c900c/
 
 # Reflection
 
-I haven't finished wiring the Arduino but I've done the code.
+The code was not that hard to be honest, but the wiring took me a really long time. Once I eventually plugged it in only one side worked, but after a couple tries I got it to work on both sides.
 
 # Image 
 
-<img src=images/TwoButtonsTwoLEDS.png alt=Two Buttons Two LEDs height=400 width=600>
+
