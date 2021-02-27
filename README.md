@@ -135,3 +135,4 @@ I have not finished this assignment yet. I have started both the code and the wi
 
 # Image 
 
+<img src=images/Screen Shot 2021-02-26 at 10.20.41 PM.png alt=Servo Control height=400 width=400>
