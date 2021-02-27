@@ -118,3 +118,20 @@ The code was not that hard to be honest, but the wiring took me a really long ti
 # Image 
 
 <img src=images/CORRECTTWOBUTTONS.png alt=Button Activated LED height=400 width=600>
+
+# Servo Control
+
+# Description 
+
+This assignment is to wire the buttons so that depending on which button you press the Servo will rotate in a direction.
+
+# Evidence 
+
+https://create.arduino.cc/editor/Pcilibe06/45a4efb5-b72a-4d8e-9dfe-ec4076d8d229/preview
+
+# Reflection
+
+I have not finished this assignment yet. I have started both the code and the wiring.
+
+# Image 
+
